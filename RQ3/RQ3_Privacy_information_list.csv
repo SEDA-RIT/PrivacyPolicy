@@ -1,16 +1,21 @@
 Info type,Value
 manufacturer / model,Google Pixel 5a
-Android ID,1169c1...
-Email,xxx@gmail.com
-Email,xxx@xxx.edu
-AndroidID (SHA-1),4b7a55...
-Serial,17031J...
-Android ID (MDS),8f0dfe...
-Serial (MDS),c65917...
-Name,xxx
-IMEI,3576416...
-GPS,"xx.xxx, -xx.xxx"
-Fine-grained location,xxx
-Coarse-grained location,xxx
-IP,10.xxx.xxx.xxx
-IP,68.xxx.xxx.xxx
+Android ID,1169c1b26128f73e
+Email,rittest10@gmail.com
+Email,ritcs2022@gmail.com
+Email,020xy3371@gmail.com
+Email,xy3371@gmail.com
+Email,020xy3371@g.rit.edu
+Email,xy3371@g.rit.edu
+Email,la3679@g.rit.edu
+AndroidID (SHA-1),4b7a559d59bc4bdcd64b76e4df7df4082a15b752
+Serial,17031JECB00062
+Serial,8f0dfef209fea80693fa8376ca0e4dd5
+Serial (MDS),c65917d1a68dc4f9c19400ae85860c75
+Name,Kirito Kirigaya
+IMEI,357641621699347 / 63
+GPS,"43.087878, -77.657076"
+Fine-grained location,Rochester
+Coarse-grained location,New York
+IP,10.182.144.145
+IP,68.180.86.22
