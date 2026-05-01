@@ -11,7 +11,7 @@ Each folder corresponds to one part of our research analysis (RQ1–RQ3).
 - **`RQ2.csv`** – Records privacy policy content related to logging, describing what data types are mentioned and for what purposes.  
 - **`RQ3_Alignment.csv`** – Summarizes the alignment results between privacy policies and privacy leakage in Android log files.  
 - **`RQ3_App_catagory.csv`** – Lists the distribution of analyzed apps have privacy leakage across different Google Play categories.  
-- **`RQ3_Privacy_information_list.csv`** – Defines the privacy information types used for leakage detection.  
+- **`RQ3_Seed_Keyword_List.csv`** – defines a seed list of privacy-related information used for leakage detection.  
 - **`RQ3_Privacy_leakage_case.csv`** – Contains detected privacy leakage cases from app logs.  
 - **`RQ3_Unstated_leakage.csv`** – Lists leakage cases where the leaked data were **not mentioned** in the corresponding **log-related** privacy policy.  
 
