@@ -15,3 +15,10 @@ Each folder corresponds to one part of our research analysis (RQ1–RQ3).
 - **`RQ3_Privacy_leakage_case.csv`** – Contains detected privacy leakage cases from app logs.  
 - **`RQ3_Unstated_leakage.csv`** – Lists leakage cases where the leaked data were **not mentioned** in the corresponding **log-related** privacy policy.  
 
+## Citation
+
+If you use this project, please cite:
+
+Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, Kundi Yao, Yiming Tang, Weiyi Shang, Daqing Hou.
+Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs.
+*Proceedings of the 30th International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026*.
