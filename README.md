@@ -3,8 +3,6 @@
 This repository contains the datasets used in our study on **Android application logging and privacy policy consistency**.  
 Each folder corresponds to one part of our research analysis (RQ1–RQ3).
 
-> ⚠️ The raw log data contains personal information and therefore will not be displayed. It will be released upon acceptance of the paper.
-
 ---
 
 ## 📂 Files Overview
